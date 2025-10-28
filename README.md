@@ -33,6 +33,6 @@ This allows handling of **non-unique inverse problems** in nanophotonic design.
 ```text
 AAO-Color-Filter-Inverse-Design-MDN/
 ├── mdn_inverse_design.py
-├── results_example/
+├── results/
    ├── example_predictions.xlsx 
 
